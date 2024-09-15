@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h2 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.phone {
+    text-align: center;
+    color: aquamarine;
+}
+
+h3 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
